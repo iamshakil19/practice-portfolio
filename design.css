@@ -33,7 +33,7 @@ h2{
     margin-bottom: 100px;
 }
 div img{
-    width: 80%;
+    width: 95%;
 }
 .justify{
     text-align:justify;
@@ -68,5 +68,8 @@ div img{
     border-image-slice: 1;
 }
 footer p{
+    text-align: center;
+}
+#id-text-center{
     text-align: center;
 }
