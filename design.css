@@ -100,3 +100,35 @@ div img{
     font-size: 20px;
     font-weight: 500;
 }
+.footer-style{
+    padding: 50px 100px 0px 200px;
+    display: flex;
+    text-align: left;
+    text-emphasis-position: auto;
+}
+.footer-design{
+    color: white;
+    width: 33%;
+}
+.link-design{
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+}
+#ssl{
+    width: 30%;
+}
+#logo{
+    width: 60%;
+}
+#download-logo{
+    width: 40%;
+}
+#bg-color{
+    background-color: rgb(75, 59, 221);
+}
+#footer{
+    text-align: center;
+    color: white;
+    padding-bottom: 30px;
+}
